@@ -6,6 +6,13 @@ In this entry-level cybersecurity certification, the domains included are: Secur
 
 This Official (ISC)² Certified in Cybersecurity (CC) self-paced course provides a comprehensive review of information systems security concepts, industry best practices and terminology. The goal of this content is to provide students with the core knowledge necessary to be a successful entry-level cybersecurity practitioner in today’s world and review concepts outlined in the Official (ISC)² Certified in Cybersecurity (CC) Exam Outline.
 
+Study Materials:
+
+https://github.com/muratinfotech/ISC2-CC-Certified-in-Cybersecurity-Study-Material/tree/main/ISC2%20CC%20Takeaway
+
+https://github.com/muratinfotech/ISC2-CC-Certified-in-Cybersecurity-Study-Material/tree/main/ThorTheachs%20CC%20Study%20Notes
+
+
 Course objectives
 Discuss the foundational concepts of cybersecurity principles. 
 Recognize foundational security concepts of information assurance. 
